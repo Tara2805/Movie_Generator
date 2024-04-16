@@ -1,4 +1,4 @@
-<span style="color:Pink; font-size:36px;">Movie_Generator</span>
+<span style="color:Pink">Movie_Generator</span>
 
 A front end movie generator
 
